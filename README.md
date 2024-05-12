@@ -1,4 +1,4 @@
-## Descrição do Projeto:
+## Descrição do Projeto
 
 Gemini Project Analyzer é uma ferramenta desenvolvida para lidar com grandes volumes de projetos submetidos a competições, transformando uma montanha de dados em insights valiosos. Com sua capacidade de processar planilhas contendo uma variedade de informações, como nomes dos participantes, links, descrições de projetos e até mesmo notas do público, o Gemini simplifica e agiliza o processo de filtragem e análise.
 
@@ -16,3 +16,7 @@ Gemini Project Analyzer é uma ferramenta desenvolvida para lidar com grandes vo
 - **Pesquisadores:** Descubra padrões em seus conjuntos de dados, facilitando a identificação de áreas de pesquisa promissoras.
 - **Gerentes de Projetos:** Identifique os projetos mais bem-sucedidos e implemente estratégias para impulsionar o sucesso.
 - **Profissionais de Dados:** Domine a análise de informações, aproveitando o poder do Gemini para extrair insights valiosos dos seus dados.
+
+## Dessenvolvimento
+
+Os testes foram realizados com dados de 264 projetos submetidos para o desafio final da Imersão IA da Alura + Google. Segue abaixo alguns exemplos dos resultados.
